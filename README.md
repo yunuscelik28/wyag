@@ -2,6 +2,9 @@
 
 This is a custom implementation of Git built from scratch in Python. It was developed to deeply understand how Git works under the hood, including its object model, hashing, and index management.
 
+## Acknowledgements
+This project was built by following the excellent [Write yourself a Git!](https://wyag.thb.lt/) tutorial by Thibault Polge. All credit for the original architecture and learning material goes to the author. This repository serves as my personal implementation and learning milestone.
+
 ## Features Implemented
 - **Repository Initialization:** `init`
 - **Object Management:** `hash-object`, `cat-file`
